@@ -6,7 +6,7 @@
 ![Design](./design/desktop-preview.jpg)
 
 ## Desktop
-![Desktop](./design/desktop-preview.jpg)
+![Desktop](./design/desktop-design.jpg)
 
 ## Mobile
 ![Mobile](./design/mobile-design.jpg)
